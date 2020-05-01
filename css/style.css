@@ -342,7 +342,7 @@ header {
 .portfolio {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    padding-top: 4rem;
+    padding-top: 10rem;
 }
 
 .portfolio__item {
